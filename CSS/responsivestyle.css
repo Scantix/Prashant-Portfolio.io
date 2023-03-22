@@ -1028,6 +1028,13 @@
     
     /* qualificatin end */
     /* Projects Start */
+    #projects h1 {
+        width: 55%;
+        text-align: left;
+        border-bottom-style: solid;
+        border-bottom-width: 3.1px;
+        border-color: var(--Main-Header-Color) ;
+    }
     .oi1 {
         top: 20.8rem;
         left: 50%;
